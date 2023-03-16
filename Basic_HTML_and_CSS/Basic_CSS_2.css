@@ -1,0 +1,14 @@
+p {
+	color:Guitar;
+	background: Orange;
+	font-weight: bold;
+	text-align: left;
+}
+
+{
+<h1>The text-shadow Property</h1>
+h1 {
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+  }
+}

@@ -1,0 +1,7 @@
+<style>
+p{color:organge;}
+
+	p{color:green;
+	text-align:left;}
+</style>
+<p>This is written in organge.</p>

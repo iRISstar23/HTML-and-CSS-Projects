@@ -1,0 +1,19 @@
+table {
+	border: 2px solid lightblue;
+	
+}
+
+td:hover {
+	background-color: yellow;
+	color: green;
+}
+
+tr, th {
+	background-color: purple;
+	color: gray;
+}
+
+tr, td {
+	background-color: brown;
+	color: sliver;
+}
