@@ -1,0 +1,5 @@
+cd #whichever path
+git status		# List all files that you have updated
+git add <file_name>		# Stage the changes you made in a file
+git commit -m "Your message"		# Commit your changes
+git push origin main		# Push to GitHub repo
