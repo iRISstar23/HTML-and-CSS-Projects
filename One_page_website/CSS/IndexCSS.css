@@ -1,0 +1,16 @@
+img:hover {
+  opacity: 0.5;
+}
+.imageContainer {
+   width: 200px;
+   height: 200px;
+}
+			
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
